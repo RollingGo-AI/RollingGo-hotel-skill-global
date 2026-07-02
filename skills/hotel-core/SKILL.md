@@ -203,7 +203,7 @@ rgg search-hotels \
 ```
 🏨 {Hotel Name}
 🖼️ ![{Hotel Name}]({imageUrl})
-⭐ {Star Rating} Stars  📍 {Distance}m from {Search Location}
+⭐ {Star Rating} Stars  *(Show if distanceInMeters exists: 📍 {distanceInMeters}m from {Search Location})*
 💰 Reference Price {Currency} {Lowest Price}/night
 🏷️ {Tag 1} · {Tag 2} · {Tag 3}
 🔗 [View Details & Book]({bookingUrl})
