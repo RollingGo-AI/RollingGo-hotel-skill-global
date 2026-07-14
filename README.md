@@ -151,7 +151,7 @@ Terminal output:
   "hotelInformationList": [
     {
       "hotelId": 1090005,
-      "bookingUrl": "https://rollinggo.cn/xxxx",
+      "bookingUrl": "https://rollinggo.ai/xxxx",
       "name": "Grand New Century Hotel Fuyang",
       "brand": "Delonix",
       "address": "No. 61 North Jinqiao Road, Fuchun Street",
