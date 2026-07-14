@@ -18,7 +18,7 @@
    AI Skills for Claude • Cursor • Copilot
 ```
 
-Search → Detail → Price Confirm → Book → Orders
+Search → Recommend → Price Confirm → Book → Orders Check
 
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-purple)
 ![Cursor Compatible](https://img.shields.io/badge/Cursor-Compatible-blue)
@@ -35,30 +35,30 @@ The RollingGo Hotel Booking Skill handles the entire process for you:
 
 📋 **Real-time Checks**: Live room types, pricing, and cancellation policies—no hidden traps.
 
-🛏️ **Early Lock-in**: Lock your favorite room instantly so you don't miss out.
+🛏️ **Early Lock-in**: Lock your favorite room instantly.
 
 🔐 **Secure Login**: One-click secure OAuth login directly within the Agent, protecting your privacy.
 
-💳 **Direct Payment**: Just say "place the order" to get a direct payment link.
+💳 **Direct Payment**: pay by credit card.
 
-📑 **Order Tracking**: Check your order status anytime for complete peace of mind.
+📑 **Order Tracking**: Check your order status anytime.
 
 💴 **Price Monitoring**: Set up 24-hour automatic price tracking and get instant alerts if prices drop.
 
-**Global Real-time Recommendations & Closed-loop Booking**. No more manual price comparisons or worrying about booking too early or too late. Hand over your hotel booking headaches with just one sentence.
+No more manual price comparisons or worrying about booking too early or too late. Hand over your hotel booking headaches with just one sentence.
 
 ## ✨ Skill Highlights
 
 - ✅ **Agent-Native Interaction**: Designed natively for Agents, completing the entire booking flow via natural conversation.
 - ✅ **Real-time Inventory & Price Confirmation**: Direct connection to inventory + live price confirmation. Zero-latency information ensures all search results are immediately bookable.
 - ✅ **Mature Supply Chain Guarantee**: Backed by the world's 3rd largest travel B2B official data source, with 14 years of supply chain accumulation and full-link API direct connections.
-- ✅ **Massive Hotel Coverage**: Access to over 2 million hotel resources, covering major global destinations.
+- ✅ **Massive Hotel Coverage**: Access to over 2 million hotel resources, covering global destinations.
 - ✅ **Directly Contracted Resources**: 110,000+ directly contracted hotels with real-time price and inventory response.
 - ✅ **Diverse Supply System**: Integrates 500+ global suppliers covering all types of hotel brands to meet varied booking needs.
-- ✅ **Differentiated Price Advantage**: Anchored to upstream OTA supply, featuring significant price advantages for overseas hotels and popular destinations like Shanghai, Hong Kong, Japan, and Korea.
+- ✅ **Differentiated Price Advantage**: Anchored to upstream OTA supply, featuring significant price advantages.
 - ✅ **Broad Compatibility**: Supports 40+ mainstream AI agents including Cursor, Claude Code, Codex, Windsurf, and Copilot.
-
-<img width="477" height="272" alt="image" src="https://github.com/user-attachments/assets/b8318f4b-4c3a-4980-8032-cc6e3ed2edeb" />
+  
+<img width="466" height="203" alt="image" src="https://github.com/user-attachments/assets/2d71ff6a-062c-4499-ba83-0965afcc683b" />
 
 ## ✨ Installation
 
