@@ -72,7 +72,7 @@ Automatically compatible with Cursor, Claude Code, Windsurf, and 40+ other agent
 npx skills add https://github.com/RollingGo-AI/hotel-skill-global
 
 # Or directly install a specific core module (Skips interactive menu)
-npx skills add https://github.com/RollingGo-AI/hotel-skill-global --skill hotel-core
+npx skills add https://github.com/RollingGo-AI/hotel-skill-global --skill rollinggo-hotel-booking
 ```
 
 The CLI auto-detects the agent installed on your system. You can also explicitly target an environment via `--agent`:
@@ -514,7 +514,7 @@ RollingGo-Skills/
   │    └── copilot-instructions.md
   └── skills/
        ├── llms.txt           # AI Index for search engines
-       └── hotel-core/        # Core hotel booking skill
+       └── rollinggo-hotel-booking/ # Core hotel booking skill
             ├── SKILL.md
             └── references/
                  └── cli-params.md
