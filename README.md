@@ -68,10 +68,6 @@ RollingGo-hotel-skill-CN](https://github.com/RollingGo-AI/RollingGo-hotel-skill-
 Automatically compatible with Cursor, Claude Code, Windsurf, and 40+ other agents.
 
 ```bash
-# Interactive installation (Recommended, freely select capability modules from the menu)
-npx skills add https://github.com/RollingGo-AI/hotel-skill-global
-
-# Or directly install a specific core module (Skips interactive menu)
 npx skills add https://github.com/RollingGo-AI/hotel-skill-global --skill rollinggo-hotel-booking
 ```
 
